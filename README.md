@@ -5,7 +5,6 @@ python 3.8
 ## Usage
 After cloning the git repo, run `.py`
 
-
 # API
 + create()
 + search()
